@@ -61,10 +61,10 @@ A secure DNS server (Domain Name Server).
 * Sun Aug 31 2014 Mustafa Ramadhan <mustafa@bigraf.com> 1.05-17.5
 - add detect '/etc/sysconfig/djbdns' if exists in djbdns.init
 
-* Wed Aug 20 2013 Mustafa Ramadhan <mustafa@bigraf.com> 1.05-17.4
+* Tue Aug 20 2013 Mustafa Ramadhan <mustafa@bigraf.com> 1.05-17.4
 - disable conflict with bind
 
-* Sun Aug 6 2013 Mustafa Ramadhan <mustafa@bigraf.com> 1.05-17.3
+* Tue Aug 6 2013 Mustafa Ramadhan <mustafa@bigraf.com> 1.05-17.3
 - add 'Requires: make' because need to make data.cb (centos 6 not installed it)
 
 * Sun Aug 4 2013 Mustafa Ramadhan <mustafa@bigraf.com> 1.05-17.2
